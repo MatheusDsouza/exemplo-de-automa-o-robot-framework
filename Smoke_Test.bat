@@ -1,0 +1,1 @@
+python -m robot -d results -i Smoke tests/sauceDemo.robot 
